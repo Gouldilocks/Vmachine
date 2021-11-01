@@ -1,0 +1,36 @@
+Cost,ItemName,Location,Stock
+40,Motor Encoder,0,0
+100,Decorative Lays Chips,1,24
+20,Ping Sensor,2,1
+20,Ping Sensor,3,0
+40,Motor Encoder,4,0
+500,Decorative Octopus,10,0
+10,Popsicle Sticks,11,0
+40,Motor Encoder,12,0
+40,Motor Controller,13,3
+40,Motor Encoder,14,5
+0,,20,0
+5,4 Shaft Collars,21,3
+50,5v Regulator,22,5
+50,5v Regulator,23,1
+0,,24,0
+0,,30,0
+0,,31,0
+0,,32,0
+500,Arduino,33,4
+50,Allen Wrench,34,1
+20,20 nut plates,40,6
+15,Potentiometer,41,1
+15,IR receiver,42,4
+15,Volt Meter,43,5
+40,Motor Controller,44,13
+0,Candy Bar,45,96
+5,3A Fuse x2,46,21
+5,4A Fuse  x2,47,11
+5,1A Fuse,48,9
+5,Copper Plates,49,0
+50,360 Servo,50,6
+50,180 Servo,51,4
+50,180 Servo,52,11
+60,Motor,53,9
+60,Motor,54,11
